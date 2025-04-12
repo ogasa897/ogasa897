@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ogasa897)
+![](https://github-readme-stats.vercel.app/api?username=ogasa897&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogasa897" />
 <!--
 **ogasa897/ogasa897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
